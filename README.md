@@ -24,4 +24,4 @@ Clone the code.
 Install npm.
 Run: npm start.
 
-Feel free to adjust the formatting or let me know if you have any specific preferences!
+
