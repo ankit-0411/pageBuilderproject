@@ -173,7 +173,7 @@ const Example = () => {
             selectItem={selectItem}
             selectedItem={selectedItem}
           />
-          {selectedItem && (
+          {selectedItem && droppedItems?.length>0 && (
             <SelectedItems
               selectedItem={selectedItem}
               deleteItem={deleteItem} // Ensure deleteItem is passed correctly

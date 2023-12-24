@@ -14,7 +14,8 @@
     cursor: pointer;
     padding: 2px;
     background: red;
-    color: white,
+    color: white;
+    position: absolute;
   }
   /* .element-list{
     position: relative;
@@ -120,4 +121,5 @@ input {
     cursor: pointer;
     font-weight: 500;
     border: 1px solid;
+    width: 200px;
   }
